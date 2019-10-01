@@ -1,2 +1,2 @@
 # TDT4173
-Machine learning
+Exercises in machine learning, NTNU
